@@ -61,7 +61,7 @@ Next, set up your local SSL certificate needed to run the learning experience ed
 To store your own code, while also keeping the ability to pull updates from our version of this repo, create your own fork.
 
 Start by pressing "Fork" in the top right corner of this repository page on GitHub. You will be able to create a new 
-fork: `<your_username>/duckietown-lx`
+fork: `<your_username>/duckietown-lx` 
 
 Then clone your new repository, replacing your GitHub username in the command below,
 
